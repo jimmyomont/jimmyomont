@@ -11,28 +11,28 @@
 ### languages et Programmations : 
 ---
 * DevOps :
--[x] GitBash
--[x] MARKDOWN
--[x] GITHUB
--[x] NPM
--[x] PARCEL
--[ ] SINGLE PAGE APPS
--[ ] API REST
--[ ] STRAPI
--[ ] CONTENT MANAGEMENT SYSTEM
--[ ] JAMSTACK
+- [x] GitBash
+- [x] MARKDOWN
+- [x] GITHUB
+- [x] NPM
+- [x] PARCEL
+- [ ] SINGLE PAGE APPS
+- [ ] API REST
+- [ ] STRAPI
+- [ ] CONTENT MANAGEMENT SYSTEM
+- [ ] JAMSTACK
 ---
 * Front : 
--[x] HTML 
--[x] CSS
--[x] JAVASCRIPT
--[x] SASS
--[ ] REACT
+- [x] HTML 
+- [x] CSS
+- [x] JAVASCRIPT
+- [x] SASS
+- [ ] REACT
 ---
 * Back :
--[ ] JAVASCRIPT
--[ ] EXPRESS.JS
--[ ] SERVEUR WEB
--[ ] MYSQL
+- [ ] JAVASCRIPT
+- [ ] EXPRESS.JS
+- [ ] SERVEUR WEB
+- [ ] MYSQL
 ---
 
