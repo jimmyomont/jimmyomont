@@ -1,15 +1,15 @@
 # Bienvnue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
----
+
 ## En cours de Titre Professionnel de Formation Developpement Web et Accessibilité 👨‍💻Chez **O'CLOCK**⏰
 ---
 ### Au cours de cette formation nous utilisons les outils 🛠️ suivants 💻 : 
----
+
 - Slippers 🧑‍🏫💼
 - Kourou 📚📝
 - Slack 📱
 ---
 ### languages et Programmations : 
----
+
 * DevOps :
 - [x] GitBash
 - [x] MARKDOWN
