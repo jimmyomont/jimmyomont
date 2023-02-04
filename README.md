@@ -1,7 +1,38 @@
-## hello world !!
-* profil en cours de construction 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+# Bienvnue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
+---
+## En cours de Titre Professionnel de Formation Developpement Web et Accessibilité 👨‍💻Chez **O'CLOCK**⏰
+---
+### Au cours de cette formation nous utilisons les outils 🛠️ suivants 💻 : 
+---
+- Slippers 🧑‍🏫💼
+- Kourou 📚📝
+- Slack 📱
+---
+### languages et Programmations : 
+---
+* DevOps :
+-[x] GitBash
+-[x] MARKDOWN
+-[x] GITHUB
+-[x] NPM
+-[x] PARCEL
+-[ ] SINGLE PAGE APPS
+-[ ] API REST
+-[ ] STRAPI
+-[ ] CONTENT MANAGEMENT SYSTEM
+-[ ] JAMSTACK
+---
+* Front : 
+-[x] HTML 
+-[x] CSS
+-[x] JAVASCRIPT
+-[x] SASS
+-[ ] REACT
+---
+* Back :
+-[ ] JAVASCRIPT
+-[ ] EXPRESS.JS
+-[ ] SERVEUR WEB
+-[ ] MYSQL
+---
 
-🍔
