@@ -1,4 +1,4 @@
-# Bienvnue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
+# Bienvenue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
 
 ## En cours de Titre Professionnel de Formation Developpement Web et Accessibilité 👨‍💻Chez **O'CLOCK**⏰
 ---
