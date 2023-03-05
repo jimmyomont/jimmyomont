@@ -1,38 +1,39 @@
-# Bienvenue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
+#  Bienvenue sur mon profil GitHub DEV (futur sénior) 🐈‍⬛
 
-## En cours de Titre Professionnel de Formation Developpement Web et Accessibilité 👨‍💻Chez **O'CLOCK**⏰
+# Ma [Gihub-page](https://github.com/jimmyomont)
+
+##  En cours de Titre Professionnel de Formation Développement Web et Accessibilité 👨‍💻 Chez **O'CLOCK** ⏰
 ---
-### Au cours de cette formation nous utilisons les outils 🛠️ suivants 💻 : 
+###  Au cours de cette formation nous utilisons les outils 🛠️ suivants 💻 :
 
-- Slippers 🧑‍🏫💼
-- Kourou 📚📝
+- Chaussons 🧑‍🏫💼
+-Kourou 📚📝
 - Slack 📱
 ---
-### languages et Programmations : 
+###  langues et Programmations :
 
 * DevOps :
 - [x] GitBash
-- [x] MARKDOWN
+- [x] MARGE
 - [x] GITHUB
-- [x] NPM
-- [x] PARCEL
-- [ ] SINGLE PAGE APPS
+- [x] MNP
+- [x] COLIS
+- [ ] APPLICATIONS À PAGE UNIQUE
 - [ ] API REST
 - [ ] STRAPI
-- [ ] CONTENT MANAGEMENT SYSTEM
+- [ ] SYSTÈME DE GESTION DE CONTENU
 - [ ] JAMSTACK
 ---
-* Front : 
-- [x] HTML 
+* Avant :
+- [x]HTML
 - [x] CSS
 - [x] JAVASCRIPT
 - [x] SASS
-- [ ] REACT
+- [ ] RÉAGIR
 ---
-* Back :
+* Retour :
 - [ ] JAVASCRIPT
 - [ ] EXPRESS.JS
 - [ ] SERVEUR WEB
 - [ ] MYSQL
 ---
-
