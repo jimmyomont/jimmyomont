@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
 
-# [Ma Gihub-page](https://jimmyomont.github.io/)
+# [Ma Gihub-page (en cours de construction)](https://jimmyomont.github.io/)
 # [Mon CV](https://cv-omont-jimmy.vercel.app/)
 ---
 # mes projets en cours :
@@ -40,8 +40,8 @@
 - [ ] REACT
 ---
 * Back :
-- [ ] JAVASCRIPT
-- [ ] EXPRESS.JS
+- [x] JAVASCRIPT
+- [x] EXPRESS.JS
 - [ ] SERVEUR WEB
 - [ ] MYSQL
 ---
