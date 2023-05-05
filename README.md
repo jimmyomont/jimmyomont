@@ -26,8 +26,8 @@
 - [x] GITHUB
 - [x] NPM
 - [x] PARCEL
-- [ ] SINGLE PAGE APPS
-- [ ] API REST
+- [x] SINGLE PAGE APPS
+- [x] API REST
 - [ ] STRAPI
 - [ ] CONTENT MANAGEMENT SYSTEM
 - [ ] JAMSTACK
@@ -42,7 +42,7 @@
 * Back :
 - [x] JAVASCRIPT
 - [x] EXPRESS.JS
-- [ ] SERVEUR WEB
-- [ ] MYSQL
+- [x] SERVEUR WEB
+- [x] POSTGRESQL
 ---
 
