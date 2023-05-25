@@ -4,7 +4,7 @@
 # [Mon CV](https://cv-omont-jimmy.vercel.app/)
 ---
 # mes projets en cours :
-# [Projet de formation "pilori"](https://vercel.com/jimmyomont/pilori)
+# [Projet de formation "pilori"](https://pilori.vercel.app/)
 # [Cohérence cardiaque "planetZen"](https://coherence-cardiaque-planet.vercel.app/)
 # [Cohérence cardiaque "Kirby" ](https://coherence-cardiaque-nu.vercel.app/#)
 # [Mon Labo CodePen](https://codepen.io/jimmy76)
