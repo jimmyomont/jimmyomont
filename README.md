@@ -38,7 +38,7 @@
 - [x] CSS
 - [x] JAVASCRIPT
 - [x] SASS
-- [ ] REACT
+- [x] REACT
 ---
 * Back :
 - [x] JAVASCRIPT
