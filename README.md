@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub DEV (futur sénior)  🐈‍⬛
+# Bienvenue sur mon profil GitHub DEV 🐈‍⬛
 
 # [Ma Gihub-page (en cours de construction)](https://jimmyomont.github.io/)
 # [Mon CV](https://cv-omont-jimmy.vercel.app/)
