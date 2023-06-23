@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub DEV 🐈‍⬛
 
-# [Ma Gihub-page (en cours de construction)](https://jimmyomont.github.io/)
+# [Ma Gihub-page](https://jimmyomont.github.io/)
 # [Mon CV](https://cv-omont-jimmy.vercel.app/)
 ---
 # mes projets en cours :
