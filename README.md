@@ -29,9 +29,7 @@
 - [x] PARCEL
 - [x] SINGLE PAGE APPS
 - [x] API REST
-- [ ] STRAPI
-- [ ] CONTENT MANAGEMENT SYSTEM
-- [ ] JAMSTACK
+- [x] DOCKER
 ---
 * Front : 
 - [x] HTML 
