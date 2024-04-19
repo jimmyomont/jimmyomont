@@ -2,7 +2,7 @@
 ---
 # mes projets :
 # [Undead Project](https://community.undead-project.com/contributeur)
-# [TechLAbs.Science](https://techlabs.science/)
+# [TechLabs.Science](https://techlabs.science/)
 # [Création site Web](https://www.aubinrg.com/)
 # [Coeur2Code](https://coeur2code.com/)
 # [Pilori (projet de formation) ](https://pilori.vercel.app/)
