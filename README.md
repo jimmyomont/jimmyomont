@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub DEV 🐈‍⬛
 ---
 # mes projets :
-# [Undead Project](https://community.undead-project.com/)
+# [Undead Project](https://community.undead-project.com/contributeur)
 # [TechLAbs.Science](https://techlabs.science/)
 # [Création site Web](https://www.aubinrg.com/)
 # [Coeur2Code](https://coeur2code.com/)
