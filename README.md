@@ -1,10 +1,9 @@
 # Bienvenue sur mon profil GitHub DEV 🐈‍⬛
-
-# [Portfolio](https://www.jimmyomont.fr/)
-# [Ma Gihub-page Portfolio](https://jimmyomont.github.io/)
-# [Mon CV](https://cv-omont-jimmy.vercel.app/)
 ---
 # mes projets :
+# [Undead Project](https://community.undead-project.com/).
+# [TechLAbs.Science]([https://community.undead-project.com/](https://techlabs.science/).
+# [Création site Web]([https://community.undead-project.com/](https://www.aubinrg.com/)).
 # [Pilori (projet de formation) ](https://pilori.vercel.app/)
 # [Planetary Rhytms : HeartSync](https://planetary-rhytms-heart-sync.vercel.app/)
 # [Voice Translate Express ](https://voice-translate-express.vercel.app/)
