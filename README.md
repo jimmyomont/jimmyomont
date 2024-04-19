@@ -1,9 +1,10 @@
 # Bienvenue sur mon profil GitHub DEV 🐈‍⬛
 ---
 # mes projets :
-# [Undead Project](https://community.undead-project.com/).
-# [TechLAbs.Science](https://techlabs.science/).
-# [Création site Web](https://www.aubinrg.com/).
+# [Undead Project](https://community.undead-project.com/)
+# [TechLAbs.Science](https://techlabs.science/)
+# [Création site Web](https://www.aubinrg.com/)
+# [Coeur2Code](https://coeur2code.com/)
 # [Pilori (projet de formation) ](https://pilori.vercel.app/)
 # [Planetary Rhytms : HeartSync](https://planetary-rhytms-heart-sync.vercel.app/)
 # [Voice Translate Express ](https://voice-translate-express.vercel.app/)
